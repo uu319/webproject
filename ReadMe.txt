@@ -4,6 +4,7 @@ Framework used is codeigniter.
 Tis is a grading system and has 3 users(admin, student, and teacher).
 
 *Admin can:
+-Admin account(username: van123 password:admin)
 1. Add student, teacher.
 2. Create new subjects sections and class.
 3. View all classes, sections and logs.
