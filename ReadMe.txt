@@ -1,7 +1,7 @@
 This is my Web Project using HTML, Bootstrap, Javascript and PHP programming and MySQL as database.
 Framework used is codeigniter.
 
-Tis is a grading system and has 3 users, the admin, student, and teacher.
+This is a grading system and has 3 users, the admin, student, and teacher.
 
 *Admin can:
 -Admin account(username: van123 password: admin)
